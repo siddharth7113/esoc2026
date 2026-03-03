@@ -316,8 +316,8 @@ Multiple projects are available: [project ideas 2026](https://github.com/pgmpy/p
 Then, make a pull request on a good first issue by March 18. You will be contacted with further details by the `pgmpy` team.
 
 * Deadline: March 18, 18:00 UTC
-* Hub: Radboud University
 * Sponsor: Zerodha
+* Hub: Radboud University
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
@@ -370,8 +370,8 @@ Then, make a pull request on a good first issue by March 19. You will be contact
 See [here for a list of good first issues](https://github.com/conda/rattler/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22).
 
 * Deadline: March 19, 18:00 UTC
-* Hub: German Center for Open Source AI
 * Sponsor: prefix.dev
+* Hub: German Center for Open Source AI
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
