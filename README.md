@@ -12,6 +12,7 @@ Projects from previous years: [2025](https://github.com/european-summer-of-code/
 
 ## Changelog
 
+* **2026-03-18: Batch 2 release moved to April 1.**
 * **2026-02-18: Batch 1 projects released!**
 * **2026-01-05: Applicant Guide, Sponsor Guide 2026 published**
 
@@ -118,23 +119,23 @@ Location: [AIoD discord, events channel](https://discord.gg/A7YDRyvqYE)
 ### Feb 18 - Batch 1
 
 - February 18, 18:00 (UTC). Applications open.
-- March 18, 18:00 (UTC). Applications must be submitted by this deadline.
+- March 19, 18:00 (UTC). Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
 - April 15 - Projects start
 
-### Mar 19 - Batch 2
+### Apr 1 - Batch 2
 
-- March 19, 18:00 (UTC). Applications open.
-- April 16, 18:00 (UTC). Applications must be submitted by this deadline.
+- April 1, 18:00 (UTC). Applications open.
+- April 30, 18:00 (UTC). Applications must be submitted by this deadline.
 - Applicant evaluation, reviews, interviews
-- May 15 - Projects start
+- May 25 - Projects start
 
 
 ## Applicant guide
 
 ### Projects
 
-* larger batches of 2026 projects will be released on February 18 and March 19.
+* larger batches of 2026 projects will be released on February 18 and April 1.
 * Individual 2026 projects are also released on a rolling basis.
 * projects have their own timelines and may come with their own terms of conditions
 * project specifics are listed in the project card, in the [list of released projects below](https://github.com/european-summer-of-code/esoc2026#2026-project-list)
@@ -256,7 +257,7 @@ Some examples are [in the project list below](https://github.com/european-summer
 # 2026 Project list
 
 * First batch of projects below.
-* Second batch of projects announced March 19
+* Second batch of projects announced April 1
 
 ### **AI-on-Demand platform**
 
