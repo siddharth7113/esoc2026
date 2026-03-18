@@ -290,7 +290,7 @@ The following repositories are valid contribution targets for the application ph
 
 Application details:
 
-* Deadline: March 18, 18:00 UTC
+* Deadline: March 19, 18:00 UTC
 * Sponsor: funding by AI-on-Demand project (Horizon Europe)
 * Hub: German Center for Open Source AI
 * T&C: Pro-rated stipend disbursed by German Center for Open Source AI
@@ -316,7 +316,7 @@ Multiple projects are available: [project ideas 2026](https://github.com/pgmpy/p
 **HOW TO APPLY:** mention `pgmpy` as an interest on your [ESoC application](https://forms.office.com/e/ArWLD0DqVv) (you can update this if you already applied).
 Then, make a pull request on a good first issue by March 18. You will be contacted with further details by the `pgmpy` team.
 
-* Deadline: March 18, 18:00 UTC
+* Deadline: March 19, 18:00 UTC
 * Sponsor: Zerodha
 * Hub: Radboud University
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
@@ -344,7 +344,7 @@ Multiple projects are available: [project ideas 2026](https://github.com/gc-os-a
 **HOW TO APPLY:** mention `pyGAM` as an interest on your ESoC application (you can update this if you already applied).
 Then, submit a pull request addressing a good first issue by March 18. The `pyGAM` maintainers will follow up with further details.
 
-* Deadline: March 18, 18:00 UTC
+* Deadline: March 19, 18:00 UTC
 * Hub & Sponsor: German Center for Open Source AI
 * T&C: Pro-rated stipend disbursed by German Center for Open Source AI
 
