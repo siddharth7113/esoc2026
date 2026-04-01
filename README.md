@@ -311,46 +311,6 @@ Join ecoSPECS and the German Center for Open Source AI to get the `pyaptamer` pa
 
 ---
 
-### **AI-on-Demand platform**
-
-**APPLICATIONS CLOSED**
-
-**The open platform for AI on demand.**
-
-Contribute to `ai-on-demand` – the European vision for an open AI portal!
-
-##### About ai-on-demand
-
-`ai-on-demand` is an open-source initiative developed and maintained by a growing community of contributors focused on accessible AI assets.
-
-The AI-on-demand metadata catalogue has the ambition to provide easy access to open source AI resources across the ecosystem.
-
-[Discord](https://discord.gg/mwVbHyJXuu)
-
-##### 2026 ESoC projects – hub: GC.OS
-
-Multiple projects are available within the `ai-on-demand` ecosystem. You can contribute to catalogue functions, backend maintenance, performance optimization, service improvements, documentation improvements, or propose your own project idea by opening an issue in the repository.
-
-**HOW TO APPLY:** mention `ai-on-demand` as an interest on your ESoC application (you can update this if you already applied).
-Then, submit a pull request addressing a good first issue by March 18. The `ai-on-demand` maintainers will contact you with further details.
-
-The following repositories are valid contribution targets for the application phase:
-
-* https://github.com/aiondemand/aiondemand
-* https://github.com/aiondemand/AIOD-rest-api
-* https://github.com/openml/openml-python
-* https://github.com/openml/server-api
-* projects supported by GC.OS - https://github.com/gc-os-ai/#projects-supported-by-gcos
-
-Application details:
-
-* Deadline: March 19, 18:00 UTC
-* Sponsor: funding by AI-on-Demand project (Horizon Europe)
-* Hub: German Center for Open Source AI
-* T&C: Pro-rated stipend disbursed by German Center for Open Source AI
-
----
-
 ## Open Source Projects
 
 ### **shap**
@@ -403,6 +363,46 @@ We value new ideas as well as contributions to existing genAI/agentic tools such
 * Deadline: April 30, 18:00 UTC
 * Hub & Sponsor: German Center for Open Source AI
 * T&C: pro-rated stipend disbursed by German Center for Open Source AI
+
+---
+
+### **AI-on-Demand platform**
+
+**APPLICATIONS CLOSED**
+
+**The open platform for AI on demand.**
+
+Contribute to `ai-on-demand` – the European vision for an open AI portal!
+
+##### About ai-on-demand
+
+`ai-on-demand` is an open-source initiative developed and maintained by a growing community of contributors focused on accessible AI assets.
+
+The AI-on-demand metadata catalogue has the ambition to provide easy access to open source AI resources across the ecosystem.
+
+[Discord](https://discord.gg/mwVbHyJXuu)
+
+##### 2026 ESoC projects – hub: GC.OS
+
+Multiple projects are available within the `ai-on-demand` ecosystem. You can contribute to catalogue functions, backend maintenance, performance optimization, service improvements, documentation improvements, or propose your own project idea by opening an issue in the repository.
+
+**HOW TO APPLY:** mention `ai-on-demand` as an interest on your ESoC application (you can update this if you already applied).
+Then, submit a pull request addressing a good first issue by March 18. The `ai-on-demand` maintainers will contact you with further details.
+
+The following repositories are valid contribution targets for the application phase:
+
+* https://github.com/aiondemand/aiondemand
+* https://github.com/aiondemand/AIOD-rest-api
+* https://github.com/openml/openml-python
+* https://github.com/openml/server-api
+* projects supported by GC.OS - https://github.com/gc-os-ai/#projects-supported-by-gcos
+
+Application details:
+
+* Deadline: March 19, 18:00 UTC
+* Sponsor: funding by AI-on-Demand project (Horizon Europe)
+* Hub: German Center for Open Source AI
+* T&C: Pro-rated stipend disbursed by German Center for Open Source AI
 
 ---
 
