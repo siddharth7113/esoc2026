@@ -34,3 +34,21 @@ For more details, refer to these discussions: [#98](https://github.com/gc-os-ai/
 **Difficulty Rating**: Hard<br>
 **Required Skills**: Python, familiarity with deep learning, PyTorch, Lightning, and scikit-learn<br>
 
+### Redesigning the Public and Internal API
+
+As pyaptamer continues to grow with the addition of more algorithms, we would like to standardize the public API and refactor the internal architecture to improve maintainability and align the library more closely with the design principles of sktime and scikit-learn. This project includes work on the data loader, a generalized dataset object, and reusable transformation utilities.
+
+Goals:
+
+* standardize the public API across existing and future algorithms
+* refactor internal interfaces to improve maintainability and extensibility
+* improve and consolidate the data loading pipeline
+* support a generalized dataset object for broader dataset handling
+* design and integrate reusable transformation utilities
+
+
+For more details, refer to these discussions: [#259](https://github.com/gc-os-ai/pyaptamer/pull/259), [#441](https://github.com/gc-os-ai/pyaptamer/pull/441), and [#174](https://github.com/gc-os-ai/pyaptamer/issues/174)
+
+Expected Time: 250 hours<br>
+Difficulty Rating: Medium<br>
+Required Skills: Python, software design, API design, familiarity with scikit-learn and sktime-style interfaces<br>
